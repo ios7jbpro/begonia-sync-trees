@@ -1,0 +1,50 @@
+[
+  {
+    "repository" : "begonia-crdroid/android_kernel_xiaomi_begonia",
+    "target_path": "kernel/xiaomi/begonia",
+    "branch": "12.1",
+    "remote": "github"
+  },
+  {
+    "repository" : "begonia-crdroid/android_vendor_xiaomi_begonia",
+    "target_path": "vendor/xiaomi/begonia",
+    "branch": "12.1",
+    "remote": "github"
+  },
+  {
+    "repository" : "begonia-crdroid/android_device_mediatek_sepolicy",
+    "target_path": "device/mediatek/sepolicy",
+    "branch": "12.1",
+    "remote": "github"
+  },
+  {
+    "repository" : "begonia-crdroid/android_vendor_xiaomi_begonia-ims",
+    "target_path": "vendor/xiaomi/begonia-ims",
+    "branch": "12.1",
+    "remote": "github"
+  },
+  {
+    "repository" : "begonia-crdroid/android_vendor_xiaomi_begonia-firmware",
+    "target_path": "vendor/xiaomi/begonia-firmware",
+    "branch": "12.1",
+    "remote": "github"
+  },
+  {
+    "repository" : "begonia-crdroid/android_packages_apps_MtkFMRadio",
+    "target_path": "packages/apps/MtkFMRadio",
+    "branch": "12.1",
+    "remote": "github"
+  },
+  {
+    "repository" : "begonia-crdroid/android_packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "branch": "12.1",
+    "remote": "github"
+  },
+  {
+    "repository" : "begonia-crdroid/android_packages_apps_ANXCamera",
+    "target_path": "packages/apps/ANXCamera",
+    "branch": "12.1",
+    "remote": "github"
+  }
+]
